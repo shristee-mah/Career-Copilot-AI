@@ -1,4 +1,4 @@
-# Career Copilot AI - Streamlit App
+# Career Copilot AI 
 
 A conversational AI-powered CV analyzer and career advisor built with Streamlit, LangChain, and Google Gemini.
 
@@ -167,6 +167,14 @@ The app maintains a separate vector store per session. To analyze different CVs:
 1. Click "Clear" button to reset chat
 2. Upload a new CV file
 3. Start a new conversation
+
+## Future Improvements
+
+- ATS Resume Scoring
+- Resume–Job Description Matching
+- Career Progress Tracking
+- Multi-document Support
+- Deployment with Authentication
 
 ### API Rate Limiting
 - Google Gemini has rate limits
